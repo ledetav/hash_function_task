@@ -1,5 +1,3 @@
-# main.py
-
 from hash_function import custom_hash
 import os
 
